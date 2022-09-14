@@ -4,11 +4,11 @@
 + [Пример автотеста через скриншоты](https://github.com/Searcher865/-visual-test-example)
 
 ### Тесты Postman
-+ [Ссылка 1](https://github.com/Searcher865/postman-example)
++ [Примеры тестов для google maps](https://github.com/Searcher865/postman-example)
 
 ### SQL
-[Сертификат о прохождении курса SQL](https://stepik.org/cert/1621450)
-[Примеры SQL запросов](https://github.com/Searcher865/testing-example/blob/main/sql-example.sql)
++ [Сертификат о прохождении курса SQL](https://stepik.org/cert/1621450)
++ [Примеры SQL запросов](https://github.com/Searcher865/testing-example/blob/main/sql-example.sql)
 
 ### Примеры ТЗ (технические задания)
 + [Ссылка 1](https://docs.google.com/document/d/1vw1dNKLl1IvQmDJbtJIFJFtkAdDyvuq4ZcOfQbfMGZo/edit?usp=sharing)
@@ -16,16 +16,16 @@
 + [Ссылка 3](https://docs.google.com/document/d/1ONB0jnz16clrJ3Gwo0WYOn8CWknfgLp5jTSTnx9yBiQ/edit?usp=sharing)
 
 ### Пример Mind map
-+ [Ссылка 1](https://mm.tt/map/2415349062?t=WktybVhIIr)
++ [Структура для чат бота в телеграм](https://mm.tt/map/2415349062?t=WktybVhIIr)
 
 ### Примеры чек листов
-+ [Ссылка 1](https://dynalist.io/d/9WfMj1HpYMn0Mh5FT5AWfzLI)
-+ [Ссылка 2](https://dynalist.io/d/YlKgnMOy5Z2bBL1234Cm2mEy)
-+ [Ссылка 3](https://dynalist.io/d/00cLJVHPQspUWsxDekp-HQj4)
-+ [Ссылка 4](https://dynalist.io/d/H0Msuf_9L-opol60CBOlZ-Kk)
++ [Чек лист переноса на бой](https://dynalist.io/d/9WfMj1HpYMn0Mh5FT5AWfzLI)
++ [Общий чек лист (этапы)](https://dynalist.io/d/YlKgnMOy5Z2bBL1234Cm2mEy)
++ [Общий технический чек лист](https://dynalist.io/d/00cLJVHPQspUWsxDekp-HQj4)
++ [Общий чек лист](https://dynalist.io/d/H0Msuf_9L-opol60CBOlZ-Kk)
 
 ### Пример комбинаторики
-+ [Ссылка 1](https://docs.google.com/spreadsheets/d/1BGP7tYE6_Le78nz3Ia0RuiBrEu8yX8YB55JKhTLlOMA/edit?usp=sharing)
++ [Данные для модуля бронирования](https://docs.google.com/spreadsheets/d/1BGP7tYE6_Le78nz3Ia0RuiBrEu8yX8YB55JKhTLlOMA/edit?usp=sharing)
 
 ### Пример аудитов сайтов
 + [Ссылка 1](https://docs.google.com/document/d/1LJZa4UgMpJ9YGampCS5JcKGiIpLSxsk0uW2C9fHxyWk/edit?usp=sharing)
