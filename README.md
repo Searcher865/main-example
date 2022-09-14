@@ -11,9 +11,8 @@
 + [Примеры SQL запросов](https://github.com/Searcher865/sql-example/blob/main/sql-example.sql)
 
 ### Примеры ТЗ (технические задания)
-+ [Ссылка 1](https://docs.google.com/document/d/1vw1dNKLl1IvQmDJbtJIFJFtkAdDyvuq4ZcOfQbfMGZo/edit?usp=sharing)
-+ [Ссылка 2](https://docs.google.com/document/d/1n43Rw8pi9LQIT4HJHN5nIo8hJAPA4WgbzEnk8dMqybw/edit?usp=sharing)
-+ [Ссылка 3](https://docs.google.com/document/d/1ONB0jnz16clrJ3Gwo0WYOn8CWknfgLp5jTSTnx9yBiQ/edit?usp=sharing)
++ [Ссылка 1](https://docs.google.com/document/d/1n43Rw8pi9LQIT4HJHN5nIo8hJAPA4WgbzEnk8dMqybw/edit?usp=sharing)
++ [Ссылка 2](https://docs.google.com/document/d/1ONB0jnz16clrJ3Gwo0WYOn8CWknfgLp5jTSTnx9yBiQ/edit?usp=sharing)
 
 ### Пример Mind map
 + [Структура для чат бота в телеграм](https://mm.tt/map/2415349062?t=WktybVhIIr)
