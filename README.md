@@ -23,6 +23,9 @@
 + [Общий технический чек лист](https://dynalist.io/d/00cLJVHPQspUWsxDekp-HQj4)
 + [Общий чек лист](https://dynalist.io/d/H0Msuf_9L-opol60CBOlZ-Kk)
 
+### Примеры оформления баг репортов
++ [Ссылка 1](https://docs.google.com/spreadsheets/d/1LyUdMQBG6eIZjempC2G9zGm0dmgBFfqCynYDcyFkifM/edit#gid=0)
+
 ### Пример комбинаторики
 + [Данные для модуля бронирования](https://docs.google.com/spreadsheets/d/1BGP7tYE6_Le78nz3Ia0RuiBrEu8yX8YB55JKhTLlOMA/edit?usp=sharing)
 
