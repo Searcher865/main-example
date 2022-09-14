@@ -34,7 +34,5 @@
 ### Обучение студентов, лекции, презентации
 + [Презентация про тестирование](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FwT%2BsanynK3X74%2BX2QzawaBqkTtbWY9YmaCZJXls0kWlWX4JkntcDXKE4u4%2Fqoz2iq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf)
 + [Лекция к презентации](https://docs.google.com/document/d/1M6qKLt_7Mkb1MzQ93tdDM5BFUHa0QMaDPm6ugeWohZ4/edit?usp=sharing)
-
-
 + [Презентация про автоматизированное тестирование](https://docs.google.com/presentation/d/1u7YHXvLbX1klEPi_7yNRNfl8FpaX7i30loXwLBGkhzc/edit?usp=sharing)
 + [Лекция к презентации](https://docs.google.com/document/d/1iLjY8l4aNRggJzRDxpWY4zYPqOpFzVj01nHm50VnGpU/edit?usp=sharing)
