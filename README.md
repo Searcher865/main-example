@@ -8,7 +8,7 @@
 
 ### SQL
 + [Сертификат о прохождении курса SQL](https://stepik.org/cert/1621450)
-+ [Примеры SQL запросов](https://github.com/Searcher865/sql-example)
++ [Примеры SQL запросов](https://github.com/Searcher865/sql-example/blob/main/sql-example.sql)
 
 ### Примеры ТЗ (технические задания)
 + [Ссылка 1](https://docs.google.com/document/d/1vw1dNKLl1IvQmDJbtJIFJFtkAdDyvuq4ZcOfQbfMGZo/edit?usp=sharing)
