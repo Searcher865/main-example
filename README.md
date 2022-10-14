@@ -17,7 +17,7 @@
 ### Пример Mind map
 + [Структура для чат бота в телеграм](https://mm.tt/map/2415349062?t=WktybVhIIr)
 
-### Примеры чек листов
+### Примеры чек-листов
 + [Чек лист переноса на бой](https://dynalist.io/d/9WfMj1HpYMn0Mh5FT5AWfzLI)
 + [Общий чек лист (этапы)](https://dynalist.io/d/YlKgnMOy5Z2bBL1234Cm2mEy)
 + [Общий технический чек лист](https://dynalist.io/d/00cLJVHPQspUWsxDekp-HQj4)
@@ -25,6 +25,9 @@
 
 ### Примеры оформления баг репортов
 + [Ссылка 1](https://docs.google.com/spreadsheets/d/1LyUdMQBG6eIZjempC2G9zGm0dmgBFfqCynYDcyFkifM/edit?usp=sharing)
+
+### Примеры тест-кейсов
++ [Ссылка 1](https://docs.google.com/spreadsheets/d/1sjvXI5ARfgiJ0_h5jSTmVmqaTdOYkT1mMEc7UPcvImY/edit?usp=sharing)
 
 ### Пример комбинаторики
 + [Данные для модуля бронирования](https://docs.google.com/spreadsheets/d/1BGP7tYE6_Le78nz3Ia0RuiBrEu8yX8YB55JKhTLlOMA/edit?usp=sharing)
