@@ -3,6 +3,9 @@
 + [Пример с использование api page speed](https://github.com/Searcher865/-api-test-example-)
 + [Пример автотеста через скриншоты](https://github.com/Searcher865/-visual-test-example)
 
+Google app scripts
++ [Ссылка 1](https://github.com/Searcher865/google-script-examples)
+
 ### Тесты Postman
 + [Примеры тестов для google maps](https://github.com/Searcher865/postman-example)
 
