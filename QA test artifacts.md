@@ -9,5 +9,5 @@
 + [Ссылка 1](https://docs.google.com/spreadsheets/d/19BJ7-dr1Rtdbp58pSXZlKQUrs0eo-F8COuD7VkTD__o/edit?usp=sharing)
 
 ### Примеры декомпозиций и оценок задач
-+ [оценка задачи на тестирование верстки писем](https://docs.google.com/spreadsheets/d/1Sgx2dKKXuvrfG8Wz8y6odNKXvak3lJB0__hoqn6c9e4/edit?usp=sharing)
++ [Оценка задачи на тестирование верстки писем](https://docs.google.com/spreadsheets/d/1Sgx2dKKXuvrfG8Wz8y6odNKXvak3lJB0__hoqn6c9e4/edit?usp=sharing)
 + [Оценка и декомпозиции задачи](https://docs.google.com/spreadsheets/d/1v7Gc9Ka2-1M9Abp4DFEGBIDZaWcsX34zVV9o_WmHOpc/edit?usp=sharing)
