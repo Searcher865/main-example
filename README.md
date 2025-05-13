@@ -53,8 +53,8 @@
 + [Анкета для HR по поиску новых QA](https://docs.google.com/spreadsheets/d/14SF7INHPpVNhDiAqpjxAZJkvUK5qM2oQM8XQax99mIk/edit?usp=sharing)
 
 ### Примеры декомпозиций и оценок задач
-+ [Пример оценки задачи на тестирование верстки писем](https://docs.google.com/spreadsheets/d/1Sgx2dKKXuvrfG8Wz8y6odNKXvak3lJB0__hoqn6c9e4/edit?usp=sharing)
-+ [Ссылка 2]()
++ [оценка задачи на тестирование верстки писем](https://docs.google.com/spreadsheets/d/1Sgx2dKKXuvrfG8Wz8y6odNKXvak3lJB0__hoqn6c9e4/edit?usp=sharing)
++ [Оценка и декомпозиции задачи](https://docs.google.com/spreadsheets/d/1v7Gc9Ka2-1M9Abp4DFEGBIDZaWcsX34zVV9o_WmHOpc/edit?usp=sharing)
   
 ### Обучение студентов, лекции, презентации
 + [Презентация про тестирование](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FwT%2BsanynK3X74%2BX2QzawaBqkTtbWY9YmaCZJXls0kWlWX4JkntcDXKE4u4%2Fqoz2iq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf), [Лекция к презентации](https://docs.google.com/document/d/1M6qKLt_7Mkb1MzQ93tdDM5BFUHa0QMaDPm6ugeWohZ4/edit?usp=sharing)
